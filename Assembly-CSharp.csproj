@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3CAE4FEF-DA7F-C3D1-9D8D-C5DDCD27C0F1}</ProjectGuid>
+    <ProjectGuid>{A5EC2C06-D0AC-21F4-8A7C-D39678C6E94D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,6 +56,7 @@
      <Compile Include="Assets\SourceCode\GamePlay\StoreItemData.cs" />
      <Compile Include="Assets\SourceCode\UI\Item.cs" />
      <Compile Include="Assets\SourceCode\UI\StoreManager.cs" />
+     <Compile Include="Assets\SourceCode\UI\UIManager.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2017.4.27f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
